@@ -15,3 +15,8 @@ console.log("Hello Deva")
 const c = 10+20;
 console.log(c);
 
+function balance()
+{
+    console.log(update)
+}
+
