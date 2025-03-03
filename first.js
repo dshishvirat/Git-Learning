@@ -12,3 +12,6 @@ console.log("hello deva")
 
 console.log("Hello Deva")
 
+const c = 10+20;
+console.log(c);
+
