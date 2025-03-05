@@ -1,5 +1,5 @@
 const name = "Deva"
-const age = 20;
+const age = 50;
 const balanace = 345;
 
 console.log("hello deva")
@@ -19,3 +19,5 @@ console.log("main hu hero tera")
 function showage(){
     console.log(age)
 }
+
+showage()
