@@ -12,3 +12,10 @@ updatebalance()
 
 console.log(balanace)
 
+console.log("deva Devashish")
+console.log("bug create")
+console.log("main hu hero tera")
+
+function showage(){
+    console.log(age)
+}
