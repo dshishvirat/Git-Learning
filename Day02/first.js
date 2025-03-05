@@ -16,6 +16,8 @@ console.log("deva Devashish")
 console.log("bug create")
 console.log("main hu hero tera")
 
-function showage(){
-    console.log(age)
+function showage(value){
+    console.log(age+value)
 }
+
+showage(20)
