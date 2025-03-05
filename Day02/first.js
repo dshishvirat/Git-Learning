@@ -11,3 +11,4 @@ function updatebalance(){
 updatebalance()
 
 console.log(balanace)
+console.log("main hu hero tera")
