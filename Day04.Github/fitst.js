@@ -6,3 +6,6 @@ console.log(login)
 
 const payment ="here are payment "
 console.log(payment)
+
+const upi ="here are upi added"
+console.log(upi)
